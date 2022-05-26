@@ -8,12 +8,16 @@
   ### [Contributions](#contributions) 
   ### [Questions](#questions) 
   
+  #
   ## Installation
   #### Open the code in VS Code and type 'npm i' in the terminal. For clarification, the following packages must be installed: 'mysql2', 'mysql', 'fs', 'inquirer' and 'console.table'. Run the application by typing 'node server' in the integrated terminal.
-  
+  #
   ## Usage
   #### This application is best used and run in VS code via the integrated terminal.
 
+  #### Video link: https://drive.google.com/file/d/1fWis2QNTpwOUce9Xp4UGgl4re_TfS66F/view?usp=sharing
+
+  #
   ## License
   ##### MIT
 
@@ -26,6 +30,7 @@
   ## Contributions
   #### As the developer, I have created a employee tracker application using server.js routes to connect with the SQL database and print an interactive terminal using inquirer for users. This application can be run after proper package installation, and by accessing the application via VS code's intgrated terminal, using the 'node server' command. 
   
+  #
   ## Questions
   #### Questions or comments about the project? You can reach me at my GitHub *itsbrianfire* — [GitHub Profile](https://www.github.com/itsbrianfire)
   ##### or contact me at brianhgarcia@gmail.com.
